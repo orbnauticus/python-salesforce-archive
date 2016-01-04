@@ -2,7 +2,8 @@
 
 from distutils.core import setup
 
-setup(name='sf_archive',
+setup(
+    name='sf_archive',
     version='0.0.1',
     author='Ryan Marquardt',
     author_email='ryan@integralws.com',
